@@ -11,7 +11,7 @@ int GetArray(int[] array)
 {
     for (int i = 0; i < array.Length; i++)
     {
-        array[i] = new Random.Next(99, 1000);
+        array[i] = new Random().Next(99, 1000);
         if (array[i] % 2 == 0)
         {
             count++;
