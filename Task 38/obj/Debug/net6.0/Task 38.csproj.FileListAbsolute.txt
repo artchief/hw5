@@ -1,0 +1,15 @@
+D:\Тестер\с#\hw5\Task 38\obj\Debug\net6.0\Task 38.csproj.AssemblyReference.cache
+D:\Тестер\с#\hw5\Task 38\obj\Debug\net6.0\Task 38.GeneratedMSBuildEditorConfig.editorconfig
+D:\Тестер\с#\hw5\Task 38\obj\Debug\net6.0\Task 38.AssemblyInfoInputs.cache
+D:\Тестер\с#\hw5\Task 38\obj\Debug\net6.0\Task 38.AssemblyInfo.cs
+D:\Тестер\с#\hw5\Task 38\obj\Debug\net6.0\Task 38.csproj.CoreCompileInputs.cache
+D:\Тестер\с#\hw5\Task 38\bin\Debug\net6.0\Task 38.exe
+D:\Тестер\с#\hw5\Task 38\bin\Debug\net6.0\Task 38.deps.json
+D:\Тестер\с#\hw5\Task 38\bin\Debug\net6.0\Task 38.runtimeconfig.json
+D:\Тестер\с#\hw5\Task 38\bin\Debug\net6.0\Task 38.dll
+D:\Тестер\с#\hw5\Task 38\bin\Debug\net6.0\Task 38.pdb
+D:\Тестер\с#\hw5\Task 38\obj\Debug\net6.0\Task 38.dll
+D:\Тестер\с#\hw5\Task 38\obj\Debug\net6.0\refint\Task 38.dll
+D:\Тестер\с#\hw5\Task 38\obj\Debug\net6.0\Task 38.pdb
+D:\Тестер\с#\hw5\Task 38\obj\Debug\net6.0\Task 38.genruntimeconfig.cache
+D:\Тестер\с#\hw5\Task 38\obj\Debug\net6.0\ref\Task 38.dll
